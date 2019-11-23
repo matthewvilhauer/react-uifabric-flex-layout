@@ -1,0 +1,30 @@
+{
+  "name": "react-uifabric-flex-layout",
+  "version": "0.0.1",
+  "description": "Component for applying a basic app layout structure to a create-react-app project using office-ui-fabric components developed by Microsoft",
+  "main": "build/index.js",
+  "peerDependencies": {
+    "react": "^16.8"
+  },
+  "dependencies": {
+    "react": "^16.8",
+    "webpack": "^2.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --watch",
+    "build": "webpack"
+  },
+  "author": {
+    "name": "Matthew Vilhauer",
+    "email": "matthewvilhauer@gmail.com"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-plugin-transform-object-rest-spread": "^6.23.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.5.1"
+  }
+}
