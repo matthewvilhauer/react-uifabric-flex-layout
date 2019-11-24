@@ -1,4 +1,4 @@
-# React/Office-Ui-Fabric/Flex Layout [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)](https://github.com/matthewvilhauer/react-uifabric-flex-layout/compare)
+# React/Office-UI-Fabric/Flex Layout [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)](https://github.com/matthewvilhauer/react-uifabric-flex-layout/compare)
 Component for applying a basic app layout structure to a [create-react-app](https://facebook.github.io/create-react-app/) project using flex and [office-ui-fabric-react](https://github.com/OfficeDev/office-ui-fabric-react) components developed by Microsoft
 
 ## Guides
