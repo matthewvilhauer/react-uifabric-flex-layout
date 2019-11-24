@@ -1,7 +1,9 @@
 {
   "name": "react-uifabric-flex-layout",
   "version": "0.0.1",
-  "description": "Component for applying a basic app layout structure to a create-react-app project using office-ui-fabric components developed by Microsoft",
+  "description": "Component for applying a basic app layout structure to a create-react-app project using flex and office-ui-fabric-react components developed by Microsoft",
+  "repository": "https://github.com/matthewvilhauer/react-uifabric-flex-layout",
+  "license": "MIT",
   "main": "build/index.js",
   "peerDependencies": {
     "react": "^16.8"
